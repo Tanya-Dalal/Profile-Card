@@ -339,11 +339,11 @@ img{
 
     .figures-fig:nth-child(2)
     {
-        margin-left: 20px;
+        margin-left: 35px;
     }
     .figures-fig:nth-child(3)
     {
-        margin-left: 35px;
+        margin-left: 65px;
     }
     .top-card-outline{
         z-index: -1;
@@ -357,9 +357,19 @@ img{
     .intro-box-outline{
         z-index: 0;
         width: 70%;
-        height: 9%;
-        margin-top: -93%;
+        height: 10%;
+        margin-top: -117%;
         border: #d9e1f2 2px solid;
         border-radius:  16px 16px 0px 0px;
+    }
+    .email-box h5{
+        font-size: 12px !important;
+    }
+    .intro-box h5{
+        font-size:13px;
+    }
+    .top-card img{
+         width: 40px;
+        height: 40px;
     }
   }
